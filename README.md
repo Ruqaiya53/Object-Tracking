@@ -1,8 +1,8 @@
 # Object-Tracking
 
-Object Tracking is broadly divided into three types Point Tracking, Kernel Tracking and Silhouette Tracking in which I had used Kernel Tracking Template based Object Tracking algorithm to build this project
+Object Tracking is broadly divided into three types Point Tracking, Kernel Tracking and Silhouette Tracking in which I have used Kernel Tracking Template based Object Tracking algorithm to build this project
 
-I had used Python for programming and Numpy, Pandas and OpenCV as key Python Libraries to build this project.
+I have used Python for programming and Numpy, Pandas and OpenCV as key Python Libraries to build this project.
 
 Project Domain: Video Surveillance, Computer Vision, Motion Analysis and Machine Learning.
 
